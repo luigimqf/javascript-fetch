@@ -87,7 +87,7 @@ table{
 }
 
 
-th,th{
+th,th,td{
   border: 1px solid black;
   font-family: 'Heebo', sans-serif;
   text-transform: uppercase;
